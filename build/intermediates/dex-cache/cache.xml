@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/chan/Documents/workspace-contract/android-threading/app/libs/robospice-cache-1.4.9.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="467f0dd69a3dc37cf7281e716eac74e2dd367a6c">
+        <dex dex="/Users/chan/Documents/workspace-contract/android-threading/app/build/intermediates/pre-dexed/debug/robospice-cache-1.4.9-86da162e35e711b33b04c3101bd76a24c25490df.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chan/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.12/277d8a8184f92951355d8ddbcac855bf8f12bc5e/rxjava-1.0.12.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="277d8a8184f92951355d8ddbcac855bf8f12bc5e">
+        <dex dex="/Users/chan/Documents/workspace-contract/android-threading/app/build/intermediates/pre-dexed/debug/rxjava-1.0.12-3549dd969f98af73952063da75e84bf52c121bc2.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chan/Documents/workspace-contract/android-threading/app/libs/robospice-1.4.9.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="87bce77d33ec9c5d243d4ef64087bb8dfa71e2de">
+        <dex dex="/Users/chan/Documents/workspace-contract/android-threading/app/build/intermediates/pre-dexed/debug/robospice-1.4.9-5ef9f8a33c7b8558bf91d7c96fc4300e3d9473f6.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chan/Desktop/android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/chan/Documents/workspace-contract/android-threading/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-b2705b3790b47e188a93645464a0a6b29648368b.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chan/Documents/workspace-contract/android-threading/app/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/chan/Documents/workspace-contract/android-threading/app/build/intermediates/pre-dexed/debug/commons-io-2.4-92ea74bb29a77d6fe4055dcbfa64618849422f6a.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chan/.gradle/caches/modules-2/files-2.1/io.reactivex/rxandroid/0.25.0/866b539d3ae58abbd47880f243c02f914fec5cda/rxandroid-0.25.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="866b539d3ae58abbd47880f243c02f914fec5cda">
+        <dex dex="/Users/chan/Documents/workspace-contract/android-threading/app/build/intermediates/pre-dexed/debug/rxandroid-0.25.0-5a7401f714da83276692be2483344f7c314a04f9.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chan/Documents/workspace-contract/android-threading/app/libs/commons-lang3-3.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66f13681add50ca9e4546ffabafaaac7645db3cf">
+        <dex dex="/Users/chan/Documents/workspace-contract/android-threading/app/build/intermediates/pre-dexed/debug/commons-lang3-3.2.1-3a8ea7a163d1dc405d1b03428b5e1feb831c5d60.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chan/Documents/workspace-contract/android-threading/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/chan/Documents/workspace-contract/android-threading/app/build/intermediates/pre-dexed/debug/classes-d177d459f1efd1b5d66d021cbc5030da81999cb3.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chan/Documents/workspace-contract/android-threading/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/chan/Documents/workspace-contract/android-threading/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-c3c45c0476a2b974f90130e8705d57b22739ec61.jar/classes.dex" />
+    </item>
+
+</items>

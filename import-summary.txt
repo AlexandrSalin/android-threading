@@ -1,0 +1,299 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea/
+* .idea/.name
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/dictionaries/
+* .idea/dictionaries/chan.xml
+* .idea/encodings.xml
+* .idea/jenkinsSettings.xml
+* .idea/libraries/
+* .idea/libraries/android_support_v4.xml
+* .idea/libraries/commons_io_2_4.xml
+* .idea/misc.xml
+* .idea/modules.xml
+* .idea/scopes/
+* .idea/scopes/scope_settings.xml
+* .idea/uiDesigner.xml
+* .idea/vcs.xml
+* .idea/workspace.xml
+* android-threading.iml
+* ant.properties
+* build.xml
+* out/
+* out/production/
+* out/production/android-threading/
+* out/production/android-threading/android-threading.apk
+* out/production/android-threading/chan/
+* out/production/android-threading/chan/android/
+* out/production/android-threading/chan/android/threading/
+* out/production/android-threading/chan/android/threading/BuildConfig.class
+* out/production/android-threading/chan/android/threading/R$attr.class
+* out/production/android-threading/chan/android/threading/R$drawable.class
+* out/production/android-threading/chan/android/threading/R$id.class
+* out/production/android-threading/chan/android/threading/R$layout.class
+* out/production/android-threading/chan/android/threading/R$string.class
+* out/production/android-threading/chan/android/threading/R.class
+* out/production/android-threading/chan/android/threading/SimpleLooperWithMessageQueue$1.class
+* out/production/android-threading/chan/android/threading/SimpleLooperWithMessageQueue$LooperThread$1.class
+* out/production/android-threading/chan/android/threading/SimpleLooperWithMessageQueue$LooperThread.class
+* out/production/android-threading/chan/android/threading/SimpleLooperWithMessageQueue.class
+* out/production/android-threading/chan/android/threading/async/
+* out/production/android-threading/chan/android/threading/async/MyAsyncTask$1.class
+* out/production/android-threading/chan/android/threading/async/MyAsyncTask$2.class
+* out/production/android-threading/chan/android/threading/async/MyAsyncTask$3.class
+* out/production/android-threading/chan/android/threading/async/MyAsyncTask$4.class
+* out/production/android-threading/chan/android/threading/async/MyAsyncTask$InternalHandler.class
+* out/production/android-threading/chan/android/threading/async/MyAsyncTask$MyAsyncTaskResult.class
+* out/production/android-threading/chan/android/threading/async/MyAsyncTask$SerialExecutor$1.class
+* out/production/android-threading/chan/android/threading/async/MyAsyncTask$SerialExecutor.class
+* out/production/android-threading/chan/android/threading/async/MyAsyncTask$Status.class
+* out/production/android-threading/chan/android/threading/async/MyAsyncTask$WorkerRunnable.class
+* out/production/android-threading/chan/android/threading/async/MyAsyncTask.class
+* out/production/android-threading/chan/android/threading/async/TestAsyncTaskActivity$1.class
+* out/production/android-threading/chan/android/threading/async/TestAsyncTaskActivity$Hello.class
+* out/production/android-threading/chan/android/threading/async/TestAsyncTaskActivity.class
+* out/production/android-threading/chan/android/threading/service/
+* out/production/android-threading/chan/android/threading/service/intent/
+* out/production/android-threading/chan/android/threading/service/intent/ComputePrimeIntentService$1.class
+* out/production/android-threading/chan/android/threading/service/intent/ComputePrimeIntentService.class
+* out/production/android-threading/chan/android/threading/service/intent/ConcurrentIntentService$1.class
+* out/production/android-threading/chan/android/threading/service/intent/ConcurrentIntentService$CompletionHandler.class
+* out/production/android-threading/chan/android/threading/service/intent/ConcurrentIntentService.class
+* out/production/android-threading/chan/android/threading/service/intent/PrimeActivity$1.class
+* out/production/android-threading/chan/android/threading/service/intent/PrimeActivity$PrimesHandler.class
+* out/production/android-threading/chan/android/threading/service/intent/PrimeActivity.class
+* out/production/android-threading/chan/android/threading/service/local/
+* out/production/android-threading/chan/android/threading/service/local/MessageReceivingPrimesActivity$1.class
+* out/production/android-threading/chan/android/threading/service/local/MessageReceivingPrimesActivity$Connection.class
+* out/production/android-threading/chan/android/threading/service/local/MessageReceivingPrimesActivity$PrimesHandler.class
+* out/production/android-threading/chan/android/threading/service/local/MessageReceivingPrimesActivity.class
+* out/production/android-threading/chan/android/threading/service/local/MessageSendingPrimesService$1.class
+* out/production/android-threading/chan/android/threading/service/local/MessageSendingPrimesService$PrimeBinder.class
+* out/production/android-threading/chan/android/threading/service/local/MessageSendingPrimesService.class
+* out/production/android-threading/com/
+* out/production/android-threading/com/octo/
+* out/production/android-threading/com/octo/android/
+* out/production/android-threading/com/octo/android/robospice/
+* out/production/android-threading/com/octo/android/robospice/SpiceActivity.class
+* out/production/android-threading/com/octo/android/robospice/SpiceManager$1.class
+* out/production/android-threading/com/octo/android/robospice/SpiceManager$2.class
+* out/production/android-threading/com/octo/android/robospice/SpiceManager$3.class
+* out/production/android-threading/com/octo/android/robospice/SpiceManager$4.class
+* out/production/android-threading/com/octo/android/robospice/SpiceManager$5.class
+* out/production/android-threading/com/octo/android/robospice/SpiceManager$6.class
+* out/production/android-threading/com/octo/android/robospice/SpiceManager$7.class
+* out/production/android-threading/com/octo/android/robospice/SpiceManager$8.class
+* out/production/android-threading/com/octo/android/robospice/SpiceManager$9.class
+* out/production/android-threading/com/octo/android/robospice/SpiceManager$MinPriorityThreadFactory.class
+* out/production/android-threading/com/octo/android/robospice/SpiceManager$PendingRequestHandlerSpiceServiceListener.class
+* out/production/android-threading/com/octo/android/robospice/SpiceManager$SpiceManagerCommand.class
+* out/production/android-threading/com/octo/android/robospice/SpiceManager$SpiceServiceConnection.class
+* out/production/android-threading/com/octo/android/robospice/SpiceManager.class
+* out/production/android-threading/com/octo/android/robospice/SpiceService$SelfStopperRequestProcessorListener.class
+* out/production/android-threading/com/octo/android/robospice/SpiceService$SpiceServiceBinder.class
+* out/production/android-threading/com/octo/android/robospice/SpiceService.class
+* out/production/android-threading/com/octo/android/robospice/UncachedSpiceService$1.class
+* out/production/android-threading/com/octo/android/robospice/UncachedSpiceService.class
+* out/production/android-threading/com/octo/android/robospice/command/
+* out/production/android-threading/com/octo/android/robospice/command/AddSpiceServiceListenerCommand.class
+* out/production/android-threading/com/octo/android/robospice/command/GetAllCacheKeysCommand.class
+* out/production/android-threading/com/octo/android/robospice/command/GetAllDataFromCacheCommand.class
+* out/production/android-threading/com/octo/android/robospice/command/GetDataFromCacheCommand.class
+* out/production/android-threading/com/octo/android/robospice/command/GetDateOfDataInCacheCommand.class
+* out/production/android-threading/com/octo/android/robospice/command/IsDataInCacheCommand.class
+* out/production/android-threading/com/octo/android/robospice/command/PutDataInCacheCommand.class
+* out/production/android-threading/com/octo/android/robospice/command/RemoveAllDataFromCacheCommand.class
+* out/production/android-threading/com/octo/android/robospice/command/RemoveDataClassFromCacheCommand.class
+* out/production/android-threading/com/octo/android/robospice/command/RemoveDataFromCacheCommand.class
+* out/production/android-threading/com/octo/android/robospice/command/RemoveSpiceServiceListenerCommand.class
+* out/production/android-threading/com/octo/android/robospice/command/SetFailOnCacheErrorCommand.class
+* out/production/android-threading/com/octo/android/robospice/exception/
+* out/production/android-threading/com/octo/android/robospice/exception/NetworkException.class
+* out/production/android-threading/com/octo/android/robospice/exception/NoNetworkException.class
+* out/production/android-threading/com/octo/android/robospice/exception/RequestCancelledException.class
+* out/production/android-threading/com/octo/android/robospice/networkstate/
+* out/production/android-threading/com/octo/android/robospice/networkstate/DefaultNetworkStateChecker.class
+* out/production/android-threading/com/octo/android/robospice/networkstate/NetworkStateChecker.class
+* out/production/android-threading/com/octo/android/robospice/notification/
+* out/production/android-threading/com/octo/android/robospice/notification/SpiceNotificationService$1.class
+* out/production/android-threading/com/octo/android/robospice/notification/SpiceNotificationService$NotificationRequestListener.class
+* out/production/android-threading/com/octo/android/robospice/notification/SpiceNotificationService.class
+* out/production/android-threading/com/octo/android/robospice/notification/SpiceServiceListenerNotificationService$NotificationSpiceServiceListener.class
+* out/production/android-threading/com/octo/android/robospice/notification/SpiceServiceListenerNotificationService$SpiceNotification.class
+* out/production/android-threading/com/octo/android/robospice/notification/SpiceServiceListenerNotificationService.class
+* out/production/android-threading/com/octo/android/robospice/persistence/
+* out/production/android-threading/com/octo/android/robospice/persistence/CacheCleaner.class
+* out/production/android-threading/com/octo/android/robospice/persistence/CacheManager.class
+* out/production/android-threading/com/octo/android/robospice/persistence/DurationInMillis.class
+* out/production/android-threading/com/octo/android/robospice/persistence/ICacheManager.class
+* out/production/android-threading/com/octo/android/robospice/persistence/ObjectPersister.class
+* out/production/android-threading/com/octo/android/robospice/persistence/ObjectPersisterFactory.class
+* out/production/android-threading/com/octo/android/robospice/persistence/Persister.class
+* out/production/android-threading/com/octo/android/robospice/persistence/binary/
+* out/production/android-threading/com/octo/android/robospice/persistence/binary/InFileBigInputStreamObjectPersister.class
+* out/production/android-threading/com/octo/android/robospice/persistence/binary/InFileBitmapObjectPersister.class
+* out/production/android-threading/com/octo/android/robospice/persistence/binary/InFileInputStreamObjectPersister$1.class
+* out/production/android-threading/com/octo/android/robospice/persistence/binary/InFileInputStreamObjectPersister.class
+* out/production/android-threading/com/octo/android/robospice/persistence/exception/
+* out/production/android-threading/com/octo/android/robospice/persistence/exception/CacheCreationException.class
+* out/production/android-threading/com/octo/android/robospice/persistence/exception/CacheLoadingException.class
+* out/production/android-threading/com/octo/android/robospice/persistence/exception/CacheSavingException.class
+* out/production/android-threading/com/octo/android/robospice/persistence/exception/KeySanitationExcepion.class
+* out/production/android-threading/com/octo/android/robospice/persistence/exception/SpiceException.class
+* out/production/android-threading/com/octo/android/robospice/persistence/file/
+* out/production/android-threading/com/octo/android/robospice/persistence/file/InFileObjectPersister$1.class
+* out/production/android-threading/com/octo/android/robospice/persistence/file/InFileObjectPersister$2.class
+* out/production/android-threading/com/octo/android/robospice/persistence/file/InFileObjectPersister.class
+* out/production/android-threading/com/octo/android/robospice/persistence/file/InFileObjectPersisterFactory$1.class
+* out/production/android-threading/com/octo/android/robospice/persistence/file/InFileObjectPersisterFactory.class
+* out/production/android-threading/com/octo/android/robospice/persistence/keysanitation/
+* out/production/android-threading/com/octo/android/robospice/persistence/keysanitation/DefaultKeySanitizer.class
+* out/production/android-threading/com/octo/android/robospice/persistence/keysanitation/KeySanitizer.class
+* out/production/android-threading/com/octo/android/robospice/persistence/memory/
+* out/production/android-threading/com/octo/android/robospice/persistence/memory/BitmapLruCache.class
+* out/production/android-threading/com/octo/android/robospice/persistence/memory/CacheItem.class
+* out/production/android-threading/com/octo/android/robospice/persistence/memory/LruCache.class
+* out/production/android-threading/com/octo/android/robospice/persistence/memory/LruCacheBitmapObjectPersister.class
+* out/production/android-threading/com/octo/android/robospice/persistence/memory/LruCacheObjectPersister.class
+* out/production/android-threading/com/octo/android/robospice/persistence/memory/LruCacheStringObjectPersister.class
+* out/production/android-threading/com/octo/android/robospice/persistence/memory/StringLruCache.class
+* out/production/android-threading/com/octo/android/robospice/persistence/string/
+* out/production/android-threading/com/octo/android/robospice/persistence/string/InFileStringObjectPersister$1.class
+* out/production/android-threading/com/octo/android/robospice/persistence/string/InFileStringObjectPersister.class
+* out/production/android-threading/com/octo/android/robospice/priority/
+* out/production/android-threading/com/octo/android/robospice/priority/CustomizablePriorityThreadFactory.class
+* out/production/android-threading/com/octo/android/robospice/priority/PausablePriorityBlockingQueue.class
+* out/production/android-threading/com/octo/android/robospice/priority/PausableThreadPoolExecutor.class
+* out/production/android-threading/com/octo/android/robospice/priority/PriorityFuture.class
+* out/production/android-threading/com/octo/android/robospice/priority/PriorityRunnable.class
+* out/production/android-threading/com/octo/android/robospice/priority/PriorityThreadPoolExecutor.class
+* out/production/android-threading/com/octo/android/robospice/request/
+* out/production/android-threading/com/octo/android/robospice/request/CachedSpiceRequest.class
+* out/production/android-threading/com/octo/android/robospice/request/DefaultRequestRunner$1.class
+* out/production/android-threading/com/octo/android/robospice/request/DefaultRequestRunner$2.class
+* out/production/android-threading/com/octo/android/robospice/request/DefaultRequestRunner.class
+* out/production/android-threading/com/octo/android/robospice/request/ProgressByteProcessor.class
+* out/production/android-threading/com/octo/android/robospice/request/RequestProcessor$1.class
+* out/production/android-threading/com/octo/android/robospice/request/RequestProcessor.class
+* out/production/android-threading/com/octo/android/robospice/request/RequestProcessorListener.class
+* out/production/android-threading/com/octo/android/robospice/request/RequestProgressManager$1.class
+* out/production/android-threading/com/octo/android/robospice/request/RequestProgressManager.class
+* out/production/android-threading/com/octo/android/robospice/request/RequestRunner.class
+* out/production/android-threading/com/octo/android/robospice/request/SpiceRequest.class
+* out/production/android-threading/com/octo/android/robospice/request/listener/
+* out/production/android-threading/com/octo/android/robospice/request/listener/PendingRequestListener.class
+* out/production/android-threading/com/octo/android/robospice/request/listener/RequestCancellationListener.class
+* out/production/android-threading/com/octo/android/robospice/request/listener/RequestListener.class
+* out/production/android-threading/com/octo/android/robospice/request/listener/RequestProgress.class
+* out/production/android-threading/com/octo/android/robospice/request/listener/RequestProgressListener.class
+* out/production/android-threading/com/octo/android/robospice/request/listener/RequestStatus.class
+* out/production/android-threading/com/octo/android/robospice/request/listener/SpiceServiceAdapter.class
+* out/production/android-threading/com/octo/android/robospice/request/listener/SpiceServiceListener$RequestProcessingContext.class
+* out/production/android-threading/com/octo/android/robospice/request/listener/SpiceServiceListener.class
+* out/production/android-threading/com/octo/android/robospice/request/listener/SpiceServiceServiceListener.class
+* out/production/android-threading/com/octo/android/robospice/request/notifier/
+* out/production/android-threading/com/octo/android/robospice/request/notifier/DefaultRequestListenerNotifier$NotFoundRunnable.class
+* out/production/android-threading/com/octo/android/robospice/request/notifier/DefaultRequestListenerNotifier$ProgressRunnable.class
+* out/production/android-threading/com/octo/android/robospice/request/notifier/DefaultRequestListenerNotifier$ResultRunnable.class
+* out/production/android-threading/com/octo/android/robospice/request/notifier/DefaultRequestListenerNotifier.class
+* out/production/android-threading/com/octo/android/robospice/request/notifier/RequestListenerNotifier.class
+* out/production/android-threading/com/octo/android/robospice/request/notifier/SpiceServiceListenerNotifier$RequestAddedNotifier.class
+* out/production/android-threading/com/octo/android/robospice/request/notifier/SpiceServiceListenerNotifier$RequestAggregatedNotifier.class
+* out/production/android-threading/com/octo/android/robospice/request/notifier/SpiceServiceListenerNotifier$RequestCancelledNotifier.class
+* out/production/android-threading/com/octo/android/robospice/request/notifier/SpiceServiceListenerNotifier$RequestFailedNotifier.class
+* out/production/android-threading/com/octo/android/robospice/request/notifier/SpiceServiceListenerNotifier$RequestNotFoundNotifier.class
+* out/production/android-threading/com/octo/android/robospice/request/notifier/SpiceServiceListenerNotifier$RequestProcessedNotifier.class
+* out/production/android-threading/com/octo/android/robospice/request/notifier/SpiceServiceListenerNotifier$RequestProgressNotifier.class
+* out/production/android-threading/com/octo/android/robospice/request/notifier/SpiceServiceListenerNotifier$RequestSucceededNotifier.class
+* out/production/android-threading/com/octo/android/robospice/request/notifier/SpiceServiceListenerNotifier.class
+* out/production/android-threading/com/octo/android/robospice/request/simple/
+* out/production/android-threading/com/octo/android/robospice/request/simple/BigBinaryRequest.class
+* out/production/android-threading/com/octo/android/robospice/request/simple/BinaryRequest.class
+* out/production/android-threading/com/octo/android/robospice/request/simple/BitmapRequest.class
+* out/production/android-threading/com/octo/android/robospice/request/simple/IBitmapRequest.class
+* out/production/android-threading/com/octo/android/robospice/request/simple/SimpleTextRequest.class
+* out/production/android-threading/com/octo/android/robospice/request/simple/SmallBinaryRequest.class
+* out/production/android-threading/com/octo/android/robospice/retry/
+* out/production/android-threading/com/octo/android/robospice/retry/DefaultRetryPolicy.class
+* out/production/android-threading/com/octo/android/robospice/retry/RetryPolicy.class
+* out/production/android-threading/roboguice/
+* out/production/android-threading/roboguice/util/
+* out/production/android-threading/roboguice/util/temp/
+* out/production/android-threading/roboguice/util/temp/Ln$BaseConfig.class
+* out/production/android-threading/roboguice/util/temp/Ln$Config.class
+* out/production/android-threading/roboguice/util/temp/Ln$Print.class
+* out/production/android-threading/roboguice/util/temp/Ln.class
+* out/production/android-threading/roboguice/util/temp/Strings.class
+* proguard-project.txt
+* tests/
+* tests/de/
+* tests/de/greenrobot/
+* tests/de/greenrobot/event/
+* tests/de/greenrobot/event/test/
+* tests/de/greenrobot/event/test/AbstractEventBusTest.java
+* tests/de/greenrobot/event/test/EventBusBackgroundThreadTest.java
+* tests/de/greenrobot/event/test/EventBusBasicTest.java
+* tests/de/greenrobot/event/test/EventBusCancelEventDeliveryTest.java
+* tests/de/greenrobot/event/test/EventBusInheritanceTest.java
+* tests/de/greenrobot/event/test/EventBusMainThreadRacingTest.java
+* tests/de/greenrobot/event/test/EventBusMainThreadTest.java
+* tests/de/greenrobot/event/test/EventBusMethodModifiersTest.java
+* tests/de/greenrobot/event/test/EventBusMultithreadedTest.java
+* tests/de/greenrobot/event/test/EventBusNoSubscriberEventTest.java
+* tests/de/greenrobot/event/test/EventBusOrderedSubscriptionsTest.java
+* tests/de/greenrobot/event/test/EventBusRegistrationRacingTest.java
+* tests/de/greenrobot/event/test/EventBusStickyEventTest.java
+* tests/de/greenrobot/event/test/EventBusSubscriberExceptionTest.java
+* tests/de/greenrobot/event/test/EventBusSubscriberLegalTest.java
+* tests/de/greenrobot/event/test/IntTestEvent.java
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets
+* libs/commons-io-2.4.jar => app/libs/commons-io-2.4.jar
+* libs/commons-lang3-3.2.1.jar => app/libs/commons-lang3-3.2.1.jar
+* libs/robospice-1.4.9.jar => app/libs/robospice-1.4.9.jar
+* libs/robospice-cache-1.4.9.jar => app/libs/robospice-cache-1.4.9.jar
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
